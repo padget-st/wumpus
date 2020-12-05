@@ -1,0 +1,2 @@
+S:\perfect_circle\BjarneStroustrup\BS_18_Wampus\Debug\BS_18_Wampus.exe
+S:\perfect_circle\BjarneStroustrup\BS_18_Wampus\Debug\BS_18_Wampus.pdb

@@ -1,0 +1,3 @@
+﻿  Cave.cpp
+S:\perfect_circle\BjarneStroustrup\BS_18_Wampus\Cave.cpp(110,29): warning C4018: '<': signed/unsigned mismatch
+  BS_18_Wampus.vcxproj -> S:\perfect_circle\BjarneStroustrup\BS_18_Wampus\Debug\BS_18_Wampus.exe
